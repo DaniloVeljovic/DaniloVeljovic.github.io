@@ -1,0 +1,40 @@
+body {
+    background-color: #101010;
+    color: #ffffff;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 {
+    color: #080;
+    font-size: 300%;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: #080;
+    font-size: 150%;
+}
+
+div {
+    margin-top: 20px;
+    color: #ffffff;
+    font-size: 100%;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    font-size: 120%;
+}
+
+a {
+    text-align: left;
+    text-decoration: none;
+    color: #88f;
+}
